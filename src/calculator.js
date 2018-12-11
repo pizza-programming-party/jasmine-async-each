@@ -1,7 +1,7 @@
 
 class Calculator {
 
-  add(a, b) {
+  static add(a, b) {
     return a + b;
   }
 
