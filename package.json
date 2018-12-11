@@ -4,7 +4,7 @@
   "description": "",
   "main": "./src/calculator.js",
   "scripts": {
-    "test": "node ./spec/test.js"
+    "test": "node ./spec/launcher.js"
   },
   "author": "",
   "license": "ISC",
