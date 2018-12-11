@@ -2,9 +2,9 @@
   "name": "jasmine-async-each",
   "version": "1.0.0",
   "description": "",
-  "main": "./src/add.js",
+  "main": "./src/calculator.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "node ./spec/test.js"
   },
   "author": "",
   "license": "ISC",
